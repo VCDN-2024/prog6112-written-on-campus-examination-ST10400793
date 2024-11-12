@@ -1,0 +1,18 @@
+Movie: Oppenheimer
+Number of Tickets: 3
+Ticket Price: $1500.0
+Total (including VAT): $5130.00
+
+---
+Movie: Oppenheimer
+Number of Tickets: 3
+Ticket Price: $1500.0
+Total (including VAT): $5130.00
+
+---
+Movie: Oppenheimer
+Number of Tickets: 30
+Ticket Price: R4000.0
+Total (including VAT): R136800.00
+
+---
